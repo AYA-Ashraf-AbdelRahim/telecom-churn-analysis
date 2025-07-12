@@ -26,9 +26,44 @@ This project presents a customer churn analysis for a telecommunications company
 
 ---
 
+## 📝 Technical Analysis Steps – Customer Churn Reduction
+
+1. **Business Objective**  
+   Understand why customers are leaving a telecom company and identify factors driving churn, to improve retention.
+
+2. **Data Overview**  
+   - Data included: Customer ID,	Churn Label,	Account Length (in months),	Local Calls,	Local Mins,	Intl Calls,	Intl Mins,	Intl Active,	Intl Plan	Extra International, Charges	Customer, Service Calls,	Avg Monthly GB Download,	Unlimited Data Plan, Extra Data Charges,	State,	Phone Number,	Gender,	Age	Under 30,	Senior,	Age group,	Group,	Number of Customers in Group,	Device Protection & Online Backup,	Contract Type,	Payment Method	Monthly Charge,	Total Charges,	Churn Category,	Churn Reason,	Total Churn
+<img width="2049" height="21" alt="image" src="https://github.com/user-attachments/assets/9cdf8473-4e3f-4e2e-a8eb-17d75fd136ee" />
+
+   - Format: Excel (.xlsx)
+
+3. **Data Cleaning (Excel)**  
+   - Removed null values and unified data formatting.
+   - Converted “Yes/No” columns to binary values.
+   - Detected outliers in monthly charges and support calls.
+
+4. **Exploratory Analysis (Excel)**  
+   - Used pivot tables and conditional formatting to explore churn by contract type, tenure, and charges.
+   - Calculated churn rate per customer group.
+
+5. **Dashboarding (Power BI)**  
+   - Created visuals: Churn by plan, customer type, contract length, and monthly charges.
+   - Applied filters and slicers to drill down by tenure, gender, and region.
+
+6. **Key Insights**  
+   - Month-to-month customers had the highest churn rate.
+   - Customers with high monthly charges churned more.
+   - Long-term contracts and loyalty programs showed better retention.
+
+7. **Final Delivery**  
+   - Presented insights and recommendations in a PowerPoint presentation.
+   - Suggested loyalty offers, better support for high-risk customers, and personalized communication.
+
+---
+
 ## 📁 Files Included:
 - Excel dataset and cleaning process.
-- Power BI dashboard (.pbix).
+- Power BI dashboard (.pbix) as image in presentation.
 - Final presentation slides (PowerPoint).
 
 ---
