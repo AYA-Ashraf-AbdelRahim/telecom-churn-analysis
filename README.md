@@ -31,7 +31,36 @@ This project presents a customer churn analysis for a telecommunications company
    Understand why customers are leaving a telecom company and identify factors driving churn, to improve retention.
 
 2. **Data Overview**  
-   - Data included: Customer ID,	Churn Label,	Account Length (in months),	Local Calls,	Local Mins,	Intl Calls,	Intl Mins,	Intl Active,	Intl Plan	Extra International, Charges	Customer, Service Calls,	Avg Monthly GB Download,	Unlimited Data Plan, Extra Data Charges,	State,	Phone Number,	Gender,	Age	Under 30,	Senior,	Age group,	Group,	Number of Customers in Group,	Device Protection & Online Backup,	Contract Type,	Payment Method	Monthly Charge,	Total Charges,	Churn Category,	Churn Reason,	Total Churn
+ Data included:
+   - Customer ID
+   - Churn Label
+   - Account Length (in months)
+   - Local Calls
+   - Local Mins
+   - Intl Calls
+   - Intl Mins
+   - Intl Active
+   - Intl Plan	Extra International
+   - Charges customer
+   - Service Calls
+   - Avg Monthly GB Download
+   - Unlimited Data Plan
+   - Extra Data Charges
+   - State
+   - Phone Number
+   - Gender
+   - Age	Under 30
+   - 	Senior
+   - 	Age group
+   - 	Group
+   - 	Number of Customers in Group
+   - 	Device Protection & Online Backup
+   - 	Contract Type
+   - 	Payment Method	Monthly Charge
+   - 	Total Charges
+   - 	Churn Category
+   - 	Churn Reason
+   - 	Total Churn
    - Format: Excel (.xlsx)
 
 3. **Data Cleaning (Excel)**  
