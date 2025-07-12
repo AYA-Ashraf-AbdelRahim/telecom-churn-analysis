@@ -39,5 +39,5 @@ The analysis helped in creating targeted strategies that could significantly red
 ---
 
 📫 **Contact**  
--Email: ayaashr61@gmail.com  
+- ayaashr61@gmail.com  
 - [LinkedIn](https://www.linkedin.com/in/aya-ashraf-/)
