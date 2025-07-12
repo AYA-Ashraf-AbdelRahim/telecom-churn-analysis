@@ -26,8 +26,7 @@ This project presents a customer churn analysis for a telecommunications company
 
 ---
 
-## 📝 Technical Analysis Steps – Customer Churn Reduction
-
+## 📝 Technical Analysis Steps :
 1. **Business Objective**  
    Understand why customers are leaving a telecom company and identify factors driving churn, to improve retention.
 
